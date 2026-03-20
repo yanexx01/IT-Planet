@@ -48,7 +48,7 @@ _Если вы используете старую версию Flutter/Dart, к
 
 Придумайте сложный пароль и не потеряйте сгенерированный файл
 
-Измените файл `android/key.properties` следующим образом:
+Создайте `android/key.properties` следующим образом:
 
     storePassword=<Ваш пароль store password>
     keyPassword=<Ваш пароль от ключа>
