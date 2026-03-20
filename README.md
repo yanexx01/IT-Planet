@@ -14,6 +14,7 @@
 ### 1. Клонирование репозитория
 
     git clone https://github.com/yanexx01/IT-Planet.git
+    cd IT-Planet
 
 
 ### 2. Установка зависимостей
